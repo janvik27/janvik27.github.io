@@ -29,7 +29,6 @@
 	p1{
 		width: 80px;
 		height: 25px;
-		margin-bottom: 1px;
 		padding: 2px;
 		border: 1px solid black;
 		background-color: maroon;
@@ -45,7 +44,6 @@
 	p2{
 		width: 80px;
 		height: 25px;
-		margin-bottom:1px;
 		padding: 2px;
 		text-align: center;
 		border: 1px solid black;
@@ -60,8 +58,8 @@
 	p3{
 		width: 80px;
 		height: 25px;
-		margin-bottom:1px;
-		padding: 2px;
+		
+		padding: 0px 1px 1px 1px;
 		text-align: center;
 		border: 1px solid black;
 		background-color: pink;
