@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<meta charset="utf-8">
@@ -23,6 +23,7 @@
 		color: black;
 		position: relative;	
 		clear: left;
+		overflow: auto;
 	}
 
 	p1{
