@@ -32,7 +32,7 @@
 		width: 80px;
 		height: 25px;
 		margin: 0px;
-		padding: 0px 2px 0px 2px;
+		padding: 2px 2px 2px 2px;
 		border: 1px solid black;
 		background-color: maroon;
 		text-align: center;
