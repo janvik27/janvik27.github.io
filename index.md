@@ -12,6 +12,7 @@
 		h1{
 			margin-bottom: 25px;
 			text-align: center;
+		font-size:175%;
 		}
 		section{
 		border: 2px solid black;
@@ -23,7 +24,8 @@
 		color: black;
 		position: relative;	
 		clear: left;
-		overflow: auto;
+		overflow: hidden;
+		
 	}
 
 	p1{
@@ -35,7 +37,7 @@
 		background-color: maroon;
 		text-align: center;
 		color: white;
-		
+		font-size:125%;
 		position: absolute;
 		top: 0px;
 		right: 0px;
@@ -55,6 +57,7 @@
 		position: absolute;
 		top: 0px;
 		right: 0px;
+		font-size:125%;
 	}
 	p3{
 		width: 80px;
@@ -69,6 +72,7 @@
 		position: absolute;
 		top: 0px;
 		right: 0px;
+		font-size:125%;
 	}
 
 		.row{
