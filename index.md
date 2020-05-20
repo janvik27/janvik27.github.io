@@ -24,7 +24,7 @@
 		color: black;
 		position: relative;	
 		clear: left;
-		overflow: hidden;
+		
 		
 	}
 
