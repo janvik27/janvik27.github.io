@@ -20,6 +20,7 @@
 		width: 90%;
 		height: 200px;
 		text-align: center;
+		padding-bottom: 25px;
 		float: left;
 		color: black;
 		position: relative;	
