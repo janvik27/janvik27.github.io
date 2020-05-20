@@ -19,7 +19,7 @@
 		background-color: lightblue;
 		width: 90%;
 		height: 150px;
-		text-align: justify;
+		text-align: center;
 		float: left;
 		color: black;
 		position: relative;	
