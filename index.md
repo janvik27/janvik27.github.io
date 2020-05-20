@@ -7,7 +7,7 @@
 		*{
 			box-sizing: border-box;
 			margin: 0;
-			padding: 10px;
+			padding: 5px;
 		}
 		h1{
 			margin-bottom: 25px;
@@ -29,7 +29,7 @@
 	p1{
 		width: 80px;
 		height: 25px;
-		padding: 2px;
+		padding: 0px 1px 1px 1px;
 		border: 1px solid black;
 		background-color: maroon;
 		text-align: center;
@@ -44,7 +44,7 @@
 	p2{
 		width: 80px;
 		height: 25px;
-		padding: 2px;
+		padding: 0px 1px 1px 1px;
 		text-align: center;
 		border: 1px solid black;
 		background-color: green;
