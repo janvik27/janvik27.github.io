@@ -19,6 +19,7 @@
 		background-color: lightblue;
 		width: 90%;
 		height: 200px;
+		font-size: 14px;
 		text-align: center;
 		padding-bottom: 25px;
 		float: left;
