@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -12,7 +12,7 @@
 		h1{
 			margin-bottom: 25px;
 			text-align: center;
-		font-size:175%;
+			font-size: 175%;
 		}
 		section{
 		border: 2px solid black;
@@ -24,20 +24,18 @@
 		color: black;
 		position: relative;	
 		clear: left;
-		
-		
 	}
 
 	p1{
 		width: 80px;
 		height: 25px;
 		margin-bottom: 1px;
-		padding: 2px 2px 2px 2px;
+		padding: 2px;
 		border: 1px solid black;
 		background-color: maroon;
 		text-align: center;
 		color: white;
-		font-size:125%;
+		font-size: 125%;
 		position: absolute;
 		top: 0px;
 		right: 0px;
@@ -47,8 +45,8 @@
 	p2{
 		width: 80px;
 		height: 25px;
-		margin-bottom: 1px;
-		padding: 2px 2px 2px 2px;
+		margin-bottom:1px;
+		padding: 2px;
 		text-align: center;
 		border: 1px solid black;
 		background-color: green;
@@ -57,13 +55,13 @@
 		position: absolute;
 		top: 0px;
 		right: 0px;
-		font-size:125%;
+		font-size: 125%;
 	}
 	p3{
 		width: 80px;
 		height: 25px;
-		margin-bottom: 1px;
-		padding: 2px 2px 2px 2px;
+		margin-bottom:1px;
+		padding: 2px;
 		text-align: center;
 		border: 1px solid black;
 		background-color: pink;
@@ -72,7 +70,7 @@
 		position: absolute;
 		top: 0px;
 		right: 0px;
-		font-size:125%;
+		font-size: 125%;
 	}
 
 		.row{
