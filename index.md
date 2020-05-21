@@ -7,7 +7,7 @@
 		*{
 			box-sizing: border-box;
 			margin: 0;
-			padding: 10px;
+			padding: 5px;
 		}
 		h1{
 			margin-bottom: 25px;
