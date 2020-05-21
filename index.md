@@ -18,7 +18,7 @@
 		border: 2px solid black;
 		background-color: lightblue;
 		width: 90%;
-		height: 190px;
+		height: 200px;
 		font-size: 16px;
 		text-align: center;
 		
