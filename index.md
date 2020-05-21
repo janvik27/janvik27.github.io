@@ -19,7 +19,7 @@
 		background-color: lightblue;
 		width: 90%;
 		height: 200px;
-		font-size: 14px;
+		font-size: 16px;
 		text-align: center;
 		
 		margin-right: auto;
@@ -98,9 +98,9 @@
 <body>
 <h1> Our Menu</h1>
 <div class="row">
-	<div class="col-lg-4 col-md-6 col-sm-12"> <section> <p1> chicken </p1> <div><br>lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do euismod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</div> </section> </div>
-	<div class="col-lg-4 col-md-6 col-sm-12"> <section> <p2> beef</p2> <div> <br>lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do euismod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat </div> </section> </div>
-	<div class="col-lg-4 col-md-6 col-sm-12"> <section> <p3> sushi </p3> <div> <br> lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do euismod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</div> </section> </div>
+	<div class="col-lg-4 col-md-6 col-sm-12"> <section> <p1> chicken </p1> <div><br>lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do euismod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat . Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div> </section> </div>
+	<div class="col-lg-4 col-md-6 col-sm-12"> <section> <p2> beef</p2> <div> <br>lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do euismod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </div> </section> </div>
+	<div class="col-lg-4 col-md-6 col-sm-12"> <section> <p3> sushi </p3> <div> <br> lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do euismod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat . Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div> </section> </div>
 </div>
 </body>
 </html>
