@@ -21,7 +21,7 @@
 		height: 200px;
 		font-size: 16px;
 		text-align: center;
-		
+		overflow: hidden;
 		margin-right: auto;
                 margin-left: auto;
 		color: black;
