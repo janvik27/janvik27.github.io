@@ -19,7 +19,7 @@
 		background-color: lightblue;
 		width: 90%;
 		height: 200px;
-		font-size: 16px;
+		font-size: 14px;
 		text-align: center;
 		
 		margin-right: auto;
